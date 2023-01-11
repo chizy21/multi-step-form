@@ -1,0 +1,33 @@
+.body {
+  width: 940px;
+  height: 600px;
+  background: #ffffff;
+  box-shadow: 0px 25px 40px -20px rgba(0, 0, 0, 0.0951141);
+  border-radius: 15px;
+}
+
+.sidebar {
+  width: 274px;
+  height: 568px;
+  background-image: url(/assets/images/bg-sidebar-desktop.svg);
+}
+
+.sidebar-container {
+  width: 153px;
+  height: 228px;
+}
+
+.sidebar-step {
+  width: 128px;
+  height: 33px;
+}
+
+.sidebar-step-number {
+  box-sizing: border-box;
+  position: absolute;
+  left: 0%;
+  right: 74.22%;
+  top: 0%;
+  bottom: 0%;
+  border: 1px solid #ffffff;
+}
